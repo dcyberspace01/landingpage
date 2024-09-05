@@ -9,8 +9,7 @@ height: 600px;
 
 display: flex;
 justify-content: space-around;
-border: 1px black;
-border-style: solid;
+
 
 
 
@@ -21,8 +20,7 @@ border-style: solid;
 
   display: flex;
   justify-content: space-around;
-  border: 1px black;
-  border-style: solid;
+
   margin-top: 0px;
   
   
@@ -42,8 +40,7 @@ border-style: solid;
   color: white;
   text-decoration: none;
   margin-right: 10px;
-  border: 1px black;
-  border-style: solid;
+
 
 }
 
@@ -56,8 +53,7 @@ max-width: 85px;
 
 display: flex;
 justify-content: space-evenly;
-border: 5px black;
-border-style: solid;
+
 
 
 
@@ -71,8 +67,7 @@ display: flex;
 justify-content: center;
 flex: 1;
 flex-direction: column;
-border: 5px black;
-border-style: solid;
+
 
 }
 
